@@ -1,0 +1,11 @@
+C:\Users\bruna.ssantos102\source\repos\ValidadorCPForms\ValidadorCPForms\bin\Debug\ValidadorCPForms.exe.config
+C:\Users\bruna.ssantos102\source\repos\ValidadorCPForms\ValidadorCPForms\bin\Debug\ValidadorCPForms.exe
+C:\Users\bruna.ssantos102\source\repos\ValidadorCPForms\ValidadorCPForms\bin\Debug\ValidadorCPForms.pdb
+C:\Users\bruna.ssantos102\source\repos\ValidadorCPForms\ValidadorCPForms\obj\Debug\ValidadorCPForms.csproj.AssemblyReference.cache
+C:\Users\bruna.ssantos102\source\repos\ValidadorCPForms\ValidadorCPForms\obj\Debug\ValidadorCPForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruna.ssantos102\source\repos\ValidadorCPForms\ValidadorCPForms\obj\Debug\ValidadorCPForms.Form1.resources
+C:\Users\bruna.ssantos102\source\repos\ValidadorCPForms\ValidadorCPForms\obj\Debug\ValidadorCPForms.Properties.Resources.resources
+C:\Users\bruna.ssantos102\source\repos\ValidadorCPForms\ValidadorCPForms\obj\Debug\ValidadorCPForms.csproj.GenerateResource.cache
+C:\Users\bruna.ssantos102\source\repos\ValidadorCPForms\ValidadorCPForms\obj\Debug\ValidadorCPForms.csproj.CoreCompileInputs.cache
+C:\Users\bruna.ssantos102\source\repos\ValidadorCPForms\ValidadorCPForms\obj\Debug\ValidadorCPForms.exe
+C:\Users\bruna.ssantos102\source\repos\ValidadorCPForms\ValidadorCPForms\obj\Debug\ValidadorCPForms.pdb
